@@ -1,3 +1,7 @@
+# Brevets
+
+Reimplement the RUSA ACP control time calculator with flask
+and ajax.
 
 ## Objectives:
 
